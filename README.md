@@ -1,0 +1,2 @@
+# Description
+This is a simple web application mimicking WhatsApp's chat functionality. It allows users to create, view, edit, and delete chat messages. The application uses Node.js, Express, MongoDB, and EJS for the backend and templating.
